@@ -1,0 +1,5 @@
+ho =input('First name:')
+ten = input('Last name:') 
+sdt = int(input('Phone number:'))
+print("Your registered name is ",ho,ten,'.')
+print("Your phone number is ",sdt,'.')
